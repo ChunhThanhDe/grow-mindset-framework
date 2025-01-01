@@ -1,28 +1,24 @@
-name: Weekly Reminder
+name: Weekly Issue Creator
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Lên lịch chạy vào lúc 00:00 UTC mỗi thứ 2 hàng tuần
-  workflow_dispatch:  # Cho phép chạy thủ công nếu cần
+    # Chạy vào mỗi thứ Hai lúc 9:00 UTC
+    - cron: '0 9 * * 1'
+
+permissions:
+  contents: read
+  issues: write
 
 jobs:
-  create_reminder_issue:
-    name: Create weekly reminder issue
+  create_weekly_issue:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Set up GitHub CLI
-        uses: actions/setup-gh@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Create a reminder issue
-        run: |
-          gh issue create \
-            --title "Weekly Reminder - Check Your Progress" \
-            --body "This is your weekly reminder to check your progress:
-
-            - Have you followed the plan from last week?
-            - Are your goals on track? Any adjustments needed?
-            - Take a moment to reflect on what worked and what didn’t.
-
-            Don’t forget to update your tasks and continue improving!" \
-            --label "reminder, weekly-review"
+      - name: Create Weekly Issue
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/ISSUE_REMINDER.md
