@@ -1,6 +1,20 @@
-## 📝 Identify a Problem You Will Solve
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChunhThanhDe/mindset-framework/refs/heads/main/media/bg.png" alt="">
+  <h1 style="font-size: 72px;">Mindset WorkSheet 🎯</h1>
+  <br>
+  <p>
+    Welcome to the <b>Mindset Worksheet</b> – your personal toolkit to reflect, grow, and solve problems effectively.
+    This resource is designed to help you uncover your goals, values, and mission while building a resilient mindset. 🌱
+  </p>
+  <p>
+    Whether you're seeking clarity, motivation, or actionable steps to overcome challenges, this worksheet is here to guide you every step of the way. 💡
+    Feel free to share your thoughts, experiences, or improvements – together, we grow!
+  </p>
+</div>
 
 ---
+
+## 📝 Identify a Problem You Will Solve
 
 ### Past Obstacles
 > [!NOTE]
