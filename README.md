@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChunhThanhDe/mindset-framework/refs/heads/main/media/bg.jpg" alt="">
+  <img src="https://raw.githubusercontent.com/ChunhThanhDe/mindset-framework/refs/heads/main/media/bg.png" alt="">
   <h1 style="font-size: 72px;">Mindset WorkSheet 🎯</h1>
   <br>
   <p>
