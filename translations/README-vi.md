@@ -3,7 +3,7 @@
   <h1 style="font-size: 72px;">Mindset WorkSheet 🎯</h1>
   <br>
   <p>
-    Chào mừng bạn đến với <b>Mindset Worksheet</b> – bộ công cụ cá nhân của bạn để phản ánh, phát triển và giải quyết vấn đề một cách hiệu quả.
+    Chào mừng bạn đến với <b>Mindset Worksheet</b> – bộ công cụ cá nhân của bạn để nhìn nhận, phát triển và giải quyết vấn đề một cách hiệu quả.
     Tài nguyên này được thiết kế để giúp bạn khám phá mục tiêu, giá trị và sứ mệnh của mình, đồng thời xây dựng một tư duy kiên cường. 🌱
   </p>
   <p>
@@ -28,7 +28,7 @@
 
 > [!TIP]
 > Câu hỏi này giúp bạn suy ngẫm về những thách thức bạn đã vượt qua, làm nổi bật sự kiên cường và các kỹ năng mà bạn đã phát triển.
-> Bằng cách phân tích những trở ngại trong quá khứ, bạn có thể xác định các mẫu hình, bài học và điểm mạnh để áp dụng trong việc giải quyết các vấn đề trong tương lai.
+> Bằng cách phân tích những trở ngại trong quá khứ, bạn có thể xác định các mô hình, bài học và điểm mạnh để áp dụng trong việc giải quyết các vấn đề trong tương lai.
 
 ---
 
@@ -117,8 +117,8 @@ Khám phá các vấn đề trong những lĩnh vực như:
 
 ### Mất mát giả định
 > [!NOTE]
-> Bài tập này thách thức bạn suy nghĩ về các nguyên tắc và chiến lược cốt lõi đã dẫn đến thành công.
-> Bằng cách tưởng tượng một sự khởi đầu lại hoàn toàn, bạn có thể xác định các bước cần thiết và tinh chỉnh khung giải quyết vấn đề của mình.
+> Câu hỏi này thách thức bạn suy nghĩ về các nguyên tắc và chiến lược cốt lõi đã dẫn đến thành công.
+> Bằng cách tưởng tượng một sự khởi đầu lại hoàn toàn, bạn có thể xác định các bước cần thiết và tinh chỉnh framework giải quyết vấn đề của mình.
 
 Nếu tôi đột nhiên mất _______ (những kết quả tôi đã đạt được) và chỉ còn lại kế hoạch làm việc của mình, tôi sẽ làm gì từ ngày 1 đến ngày 30 để lấy lại _______ (kết quả lớn)?
 
@@ -130,7 +130,7 @@ Nếu tôi đột nhiên mất _______ (những kết quả tôi đã đạt đ�
 ```
 
 **Ví dụ:**
-*Nếu tôi đột nhiên mất quyền truy cập vào tài khoản GitHub và tất cả các repositories của mình, và tôi chỉ còn lại kiến thức và khung làm việc, tôi sẽ làm gì từ ngày 1 đến ngày 30 để xây dựng lại portfolio và khôi phục uy tín nghề nghiệp của mình?*
+*Nếu tôi đột nhiên mất quyền truy cập vào tài khoản GitHub và tất cả các repositories của mình, và tôi chỉ còn lại kiến thức và kế hoạch làm việc, tôi sẽ làm gì từ ngày 1 đến ngày 30 để xây dựng lại portfolio và khôi phục lịch sử nghề nghiệp của mình?*
 
 ---
 
@@ -198,6 +198,10 @@ Những bước này mô tả các hành động thực tiễn bạn có thể t
 > Xác định các nhu cầu hoặc khoảng trống trên thị trường và điều chỉnh các đề xuất của bạn để đáp ứng chúng.
 > **Bạn sẽ học được gì:** Làm thế nào để điều chỉnh kỹ năng hoặc sản phẩm với những gì mọi người thực sự cần.
 
+```
+(Viết xuống những gì bạn sẽ làm tại đây, để đảm bảo bạn hiểu rõ vấn đề.)
+```
+
 5. **Phân tích ngược các chiến lược kiếm tiền**
 > [!IMPORTANT]
 > Phân tích các phương pháp thành công được sử dụng bởi người khác và áp dụng chúng vào ngữ cảnh của bạn.
@@ -207,7 +211,7 @@ Những bước này mô tả các hành động thực tiễn bạn có thể t
 (Viết xuống những gì bạn sẽ làm tại đây, để đảm bảo bạn hiểu rõ vấn đề.)
 ```
 
-6. **Tạo ý tưởng thu hút khách hàng lý tưởng**
+6. **Tạo ý tưởng thu hút Client lý tưởng**
 > [!TIP]
 > Động não các cách sáng tạo để thu hút đối tượng mục tiêu của bạn.
 > **Bạn sẽ học được gì:** Các kỹ thuật để đặt mình trở thành giải pháp hàng đầu cho những nhu cầu cụ thể.
@@ -254,7 +258,7 @@ Những bước này mô tả các hành động thực tiễn bạn có thể t
 
 11. **Xây dựng Sales Funnel và kiếm tiền online**
 > [!IMPORTANT]
-> Hướng dẫn khán giả của bạn qua một hành trình dẫn đến chuyển đổi và doanh thu.
+> Hướng dẫn Client của bạn qua một hành trình dẫn đến chuyển đổi và doanh thu.
 > **Bạn sẽ học được gì:** Cách cấu trúc các đề xuất và cung cấp giá trị để tối đa hóa thu nhập.
 
 ```
@@ -274,6 +278,7 @@ Những bước này mô tả các hành động thực tiễn bạn có thể t
 ### Tổ Chức Chúng
 > [!NOTE]
 > Mục đích: Cấu trúc các bước hành động của bạn thành một phương pháp rõ ràng và hợp lý giúp bạn tổ chức tốt hơn và truyền đạt quy trình hiệu quả.
+
 > [!TIP]
 > Những gì bạn sẽ học được: Một khuôn khổ có thể sao chép, từng bước một, giúp đơn giản hóa việc thực hiện và tăng cường sự rõ ràng.
 
@@ -302,7 +307,7 @@ Những bước này mô tả các hành động thực tiễn bạn có thể t
 
 1. **Xác định một Vấn Đề Quan Trọng Mà Bạn Đang Đối Mặt**
 > [!CAUTION]
-> Mục đích: Suy nghĩ về những thử thách đang gây ra sự bực bội, giới hạn tiến độ, hoặc tạo ra sự bất ổn trong cuộc sống của bạn.
+> Mục đích: Suy nghĩ về những thử thách đang gây ra sự trậm trễ, lười, giới hạn tiến độ, hoặc tạo ra sự bất ổn trong cuộc sống của bạn.
 Ví dụ: “Tại sao tôi không thể duy trì sự nhất quán với kế hoạch tập luyện của mình?”
 Những gì bạn sẽ học được: Khả năng tập trung vào một vấn đề rõ ràng và có ảnh hưởng tại một thời điểm.
 
@@ -437,6 +442,7 @@ Chủ đề của bạn: _________ (Viết ở đây.)
 ### Các Bước Hành Động
 > [!NOTE]
 > Mục đích: Những bước này giúp bạn chuyển đổi những hiểu biết của mình thành nội dung hoặc sản phẩm có thể thực hiện được.
+
 > [!TIP]
 > Những gì bạn sẽ học được: Kinh nghiệm thực tế và khả năng cung cấp giải pháp có giá trị.
 
