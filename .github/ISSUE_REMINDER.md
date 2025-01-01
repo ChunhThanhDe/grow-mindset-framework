@@ -1,6 +1,5 @@
 ---
 title: Weekly Reminder - Check Your Progress {{ date | date('dddd, MMMM Do') }}
-assignees:
 labels: motivation, reminder
 ---
 
