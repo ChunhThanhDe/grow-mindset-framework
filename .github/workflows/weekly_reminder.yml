@@ -2,8 +2,8 @@ name: Weekly Issue Creator
 
 on:
   schedule:
-    # Chạy vào mỗi thứ Hai lúc 9:00 UTC
     - cron: '0 9 * * 1'
+  workflow_dispatch:
 
 permissions:
   contents: read
