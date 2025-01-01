@@ -15,12 +15,12 @@
 
 ## Table of Contents
 
-- [Xác Định Vấn Đề Bạn Sẽ Giải Quyết](#-identify-a-problem-you-will-solve)
-- [Các Câu Hỏi Tự Phản Chiếu](#self-reflection-questions)
-- [Nếu Bạn Đã Giải Quyết Vấn Đề Của Mình…](#if-you-have-already-solved-your-problem)
-- [Nếu Bạn Chưa Giải Quyết Được Vấn Đề Nào…](#-if-you-havent-solved-any-problems-yet)
-- [Khi Bạn Chọn Được Một Chủ Đề Mà Bạn Không Thể Ngừng Nói…](#once-you-picked-a-topic-you-cant-shut-up-about)
-- [Vẫn Cảm Thấy Khó Khăn?](#-still-struggling)
+- [Xác Định Vấn Đề Bạn Sẽ Giải Quyết](#-xác-định-vấn-đề-bạn-sẽ-giải-quyết)
+- [Các Câu Hỏi Tự Phản Chiếu](#câu-hỏi-tự-phản-ánh)
+- [Nếu Bạn Đã Giải Quyết Vấn Đề Của Mình…](#nếu-bạn-đã-giải-quyết-vấn-đề-của-mình)
+- [Nếu Bạn Chưa Giải Quyết Được Vấn Đề Nào…](#-nếu-bạn-chưa-giải-quyết-được-vấn-đề-nào)
+- [Khi Bạn Chọn Được Một Chủ Đề Mà Bạn Không Thể Ngừng Nghĩ…](#khi-bạn-chọn-được-một-chủ-đề-mà-bạn-không-thể-ngừng-nghĩ-đến)
+- [Vẫn Cảm Thấy Khó Khăn?](#-vẫn-cảm-thấy-khó-khăn)
 
 <details>
 <summary>Các bản dịch ở đây 🌳</summary>
