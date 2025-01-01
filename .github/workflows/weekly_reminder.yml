@@ -1,0 +1,29 @@
+name: Weekly Reminder
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Lên lịch chạy vào lúc 00:00 UTC mỗi thứ 2 hàng tuần
+  workflow_dispatch:  # Cho phép chạy thủ công nếu cần
+
+jobs:
+  create_reminder_issue:
+    name: Create weekly reminder issue
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Create a reminder issue
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Weekly Reminder - Check Your Progress
+          content: |
+            This is your weekly reminder to check your progress:
+
+            - Have you followed the plan from last week?
+            - Are your goals on track? Any adjustments needed?
+            - Take a moment to reflect on what worked and what didn’t.
+
+            Don’t forget to update your tasks and continue improving!
+          labels: |
+            reminder, weekly-review
