@@ -14,6 +14,22 @@
 
 ---
 
+## Table of Contents
+- [Identify a Problem You Will Solve](#-identify-a-problem-you-will-solve)
+- [Self Reflection Questions](#self-reflection-questions)
+- [If You Have Already Solved Your Problem…](#if-you-have-already-solved-your-problem)
+- [If You Haven’t Solved Any Problems Yet…](#-if-you-havent-solved-any-problems-yet)
+- [Once You Picked a Topic You Can’t Shut Up About…](#once-you-picked-a-topic-you-cant-shut-up-about)
+- [Still Struggling?](#-still-struggling)
+
+<details>
+<summary>Translations here 🌳</summary>
+
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+</details>
+
+---
+
 ## 📝 Identify a Problem You Will Solve
 
 ### Past Obstacles

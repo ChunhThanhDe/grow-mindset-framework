@@ -11,10 +11,26 @@
     Hãy thoải mái chia sẻ suy nghĩ, trải nghiệm hoặc ý tưởng cải tiến của bạn – cùng nhau, chúng ta phát triển!
   </p>
 </div>
+---
+
+## Table of Contents
+
+- [Xác Định Vấn Đề Bạn Sẽ Giải Quyết](#-identify-a-problem-you-will-solve)
+- [Các Câu Hỏi Tự Phản Chiếu](#self-reflection-questions)
+- [Nếu Bạn Đã Giải Quyết Vấn Đề Của Mình…](#if-you-have-already-solved-your-problem)
+- [Nếu Bạn Chưa Giải Quyết Được Vấn Đề Nào…](#-if-you-havent-solved-any-problems-yet)
+- [Khi Bạn Chọn Được Một Chủ Đề Mà Bạn Không Thể Ngừng Nói…](#once-you-picked-a-topic-you-cant-shut-up-about)
+- [Vẫn Cảm Thấy Khó Khăn?](#-still-struggling)
+
+<details>
+<summary>Các bản dịch ở đây 🌳</summary>
+
+- [Tiếng Anh - EngLish](../README.md)
+</details>
 
 ---
 
-# 📝 Xác định vấn đề bạn sẽ giải quyết
+## 📝 Xác định vấn đề bạn sẽ giải quyết
 
 ### Trở ngại trong quá khứ
 > [!NOTE]
@@ -392,7 +408,7 @@ Những gì bạn sẽ học được: Khả năng lặp lại và cải tiến 
 
 ---
 
-## Khi Bạn Chọn Được Một Chủ Đề Mà Bạn Không Thể Ngừng Nói...
+## Khi Bạn Chọn Được Một Chủ Đề Mà Bạn Không Thể Ngừng Nghĩ Đến...
 
 ### Xác Định Các Thử Thách Mà Mọi Người Đang Đối Mặt
 > [!IMPORTANT]
